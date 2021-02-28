@@ -1,5 +1,5 @@
 # TheForestDedicatedServers_GUI
-一个森林游戏的服务端GUI创建，管理工具
+一个森林游戏的服务端GUI创建，管理工具 TheForestDedicatedServers
 
 # 预览
 ![screenshot_01](https://github.com/Pidbid/TheForestDedicatedServers_GUI/blob/main/static/screenshot_01.png)
