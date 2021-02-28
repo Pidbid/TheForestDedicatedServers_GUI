@@ -1,0 +1,10 @@
+{
+    "steamcmd": {
+        "url": "https://www.wicos.me/steamcmd.exe",
+        "fullfile": 0
+    },
+    "theforest": {
+        "path": "",
+        "fullfile": 0
+    }
+}
